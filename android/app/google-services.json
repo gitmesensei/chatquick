@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "816739161584",
+    "project_id": "chatquick-aa6ad",
+    "storage_bucket": "chatquick-aa6ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816739161584:android:93914b3dbc8667f8c8b935",
+        "android_client_info": {
+          "package_name": "com.acosdemega.chatquick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816739161584-744824qk5727efqfpphn3ga8o58t9b7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.acosdemega.chatquick",
+            "certificate_hash": "9b6f7b29927271d687abf47f22b985a6f92f7eb6"
+          }
+        },
+        {
+          "client_id": "816739161584-ig8m1mmhftbg186ou4kpkutf3ahn8qk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg-4TIxlWT3EXpL5bq1y0oF_sI9BtYlkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816739161584-ig8m1mmhftbg186ou4kpkutf3ahn8qk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
